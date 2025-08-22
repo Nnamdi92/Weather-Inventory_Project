@@ -29,8 +29,8 @@ The workflow integrates **Google Cloud Storage (GCS)**, **PostgreSQL**, and **Sn
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Nnamdi92/Weather-Inventory_Project.git
+
 ```
 
 ### 2️⃣ Create Virtual Environment & Install Dependencies
